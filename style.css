@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#search{
+    padding: 10px;
+    border: none;
+    outline: none;
+    background-color: rgb(41, 50, 69);   
+    margin-left: 444px;
+    margin-top: 34px;
+    border-radius: 8px;
+    width: 534px;
+    color: white;
+}
+::placeholder{
+    color: white;
+    text-align: center;
+
+    
+} 
+
+
+.mainbox{
+    margin-top: 33px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.moviesAdda{
+    text-align: center;
+}
+
